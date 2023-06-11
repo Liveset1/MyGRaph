@@ -1,0 +1,23 @@
+{
+  "name": "mygraph",
+  "version": "1.0.0",
+  "description": "A 2d and 3d calculator",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liveset1/MyGraph.git"
+  },
+  "author": "Indelton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liveset1/MyGraph/issues"
+  },
+  "homepage": "https://github.com/Liveset1/MyGraph#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
